@@ -1,1 +1,1 @@
-# press_model
+# A distributed press model 📝
