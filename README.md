@@ -1,3 +1,5 @@
 # distributed press model 📝
 
 [<img src="https://raw.githubusercontent.com/mochiyaki/press_model/master/distributed_press_model.svg" width="600" height="300">](https://github.com/mochiyaki/press_model/blob/main/distributed_press_model.svg)
+
+This is a decentralized press model that utilizes both IPFS for frontend deployment and Ethereum blockchain for backend deployment. The model allows authors to publish their articles, essays, and writings on a distributed platform. Subscribers can purchase a non-fungible token (NFT) membership card to access the content. The funds generated from these purchases are distributed to the content providers or authors through a smart contract, ensuring that the content providers are financially supported for their work and can continue to contribute to the community. The smart contract also ensures that the funds are distributed fairly and transparently. The use of IPFS and blockchain technology ensures that the platform is decentralized and resistant to censorship.
